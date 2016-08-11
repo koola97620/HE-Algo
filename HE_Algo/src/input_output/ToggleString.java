@@ -5,7 +5,8 @@ public class ToggleString {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int kk=1;
-
+		int dd=2;
+		
 	}
 
 }
