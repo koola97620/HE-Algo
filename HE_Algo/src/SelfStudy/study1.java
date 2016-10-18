@@ -24,6 +24,7 @@ public class study1 {
 		
 		System.out.println("\n"+ st1.CompareToMax(array, count));
 		System.out.println("GIT 재연결");
+		System.out.println("GIT 재연결");
 		
 
 	}
